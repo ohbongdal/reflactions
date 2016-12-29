@@ -1,0 +1,49 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+- if the old one worked collectly than the new added or replaced part of new one probably has a bug.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+- through comparing previous versions i could detect errors more easily and weigh which one is better.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+- people maybe exactly know when and where they should save a version but also they can forget,
+ sometimes the point when automatic saving occurs is middle of working on some project so the saved version is meaningless,
+ but it have a advantage of not forgetting.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+- writing a program entails writing several codes connected each other
+ so when connecting with developing a program it is neccessary making a bundle of something connected,
+ but documentary? maybe it needs too but it isn't always.
+
+How can you use the commands git log and git diff to view the history of files?
+
+- for git log it shows all the commits including id unique for every commit, author, date, message
+ for git diff compares two or more commits which are given as arguments.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+- try other versions.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+- making programming more easier and more pleasure thing
+
+What happens when you initialize a repository? Why do you need to do it?
+
+- .git directory is created and maybe other things are setted to make it work,
+  because some setting is needed?
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+- a staging area is area for something will be committed at same time. it provides a tool for encapsulating relate files 
+ working area includes files which in staging area and other things which maybe are include in other stating area.
+ a repository include all commits
+
+
