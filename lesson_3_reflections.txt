@@ -9,4 +9,19 @@ stay up-to-date with your remote repository?
 - like making new branch it is possible for me to want try something out of master branch
  and if it is just not alone who work on the branch then what i didn't commit would be gone.
 
+ Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+- fork : 
+  what? copy someone eles' repository.
+  when? use it when i don't have authorization to modify the repository and i want to modify it,
+   so copy it and ruin it.
  
+ clone : 
+  what? copy my repository or between my remote and local repository (through using the term my
+  i mean i have authorization to modify it including pushing commits.)
+  when? from a remote repository i want to copy a repository. 
+   and i am not sure but it can adjust? in a local repository, so make copy of that?
+ 
+ branch :
+  what? make a bough so i can commit more not affecting other branches.
+  when? want to do something from some specific commit point without affecting other branches.
