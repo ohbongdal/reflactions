@@ -46,4 +46,25 @@ How is the staging area different from the working directory and the repository?
  working area includes files which in staging area and other things which maybe are include in other stating area.
  a repository include all commits
 
+ How can you use the staging area to make sure you have one commit per logical change?
 
+- compare with the latest commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+- the dicesion i'm making is tentative and simutanously the main branch
+ possibly can grow further.
+
+ How do the diagrams help you visualize the branch structure?
+
+- i can see where branches started and after having been seperated what commits was made
+ to each branches at one glance.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+- sum of them excluding parts which were deleted from original version.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+- for automatic, time saving & accurate at some point
+ for manual, can resolve conflicts & make conflicts some better code than just abandon something other.
