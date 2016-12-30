@@ -25,3 +25,7 @@ stay up-to-date with your remote repository?
  branch :
   what? make a bough so i can commit more not affecting other branches.
   when? want to do something from some specific commit point without affecting other branches.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+- if not conflicts between local and remote can occur.
