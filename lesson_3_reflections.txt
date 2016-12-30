@@ -29,3 +29,12 @@ stay up-to-date with your remote repository?
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 - if not conflicts between local and remote can occur.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+- make some changes and discuss how to mix the changes and make results and 
+  so on. with git and github, i think the nature of this process somewhat
+  same. but having a tool to more easily merge the changes and to discuss
+  and make results. so definately using Git and GitHub is easier if everyone
+  can use them.
+
